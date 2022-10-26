@@ -38,14 +38,14 @@
 			this.textBox1.Location = new System.Drawing.Point(170, 39);
 			this.textBox1.Name = "textBox1";
 			this.textBox1.Size = new System.Drawing.Size(180, 22);
-			this.textBox1.TabIndex = 0;
+			this.textBox1.TabIndex = 1;
 			// 
 			// button1
 			// 
 			this.button1.Location = new System.Drawing.Point(367, 39);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(74, 19);
-			this.button1.TabIndex = 1;
+			this.button1.TabIndex = 2;
 			this.button1.Text = "確認";
 			this.button1.UseVisualStyleBackColor = true;
 			this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -56,7 +56,7 @@
 			this.label1.Location = new System.Drawing.Point(26, 42);
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(138, 12);
-			this.label1.TabIndex = 2;
+			this.label1.TabIndex = 0;
 			this.label1.Text = "請輸入日期(yyyy/MM/dd):";
 			// 
 			// Form1

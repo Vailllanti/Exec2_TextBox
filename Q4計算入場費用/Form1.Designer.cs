@@ -51,7 +51,7 @@
 			this.label2.Location = new System.Drawing.Point(171, 26);
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(106, 12);
-			this.label2.TabIndex = 0;
+			this.label2.TabIndex = 2;
 			this.label2.Text = "車輛數(每輛200元):";
 			// 
 			// calebtn
@@ -59,7 +59,7 @@
 			this.calebtn.Location = new System.Drawing.Point(287, 59);
 			this.calebtn.Name = "calebtn";
 			this.calebtn.Size = new System.Drawing.Size(63, 30);
-			this.calebtn.TabIndex = 1;
+			this.calebtn.TabIndex = 4;
 			this.calebtn.Text = "計算";
 			this.calebtn.UseVisualStyleBackColor = true;
 			this.calebtn.Click += new System.EventHandler(this.calebtn_Click);
@@ -69,14 +69,14 @@
 			this.peopletxtb.Location = new System.Drawing.Point(103, 23);
 			this.peopletxtb.Name = "peopletxtb";
 			this.peopletxtb.Size = new System.Drawing.Size(62, 22);
-			this.peopletxtb.TabIndex = 2;
+			this.peopletxtb.TabIndex = 1;
 			// 
 			// carstxtb
 			// 
 			this.carstxtb.Location = new System.Drawing.Point(283, 23);
 			this.carstxtb.Name = "carstxtb";
 			this.carstxtb.Size = new System.Drawing.Size(62, 22);
-			this.carstxtb.TabIndex = 2;
+			this.carstxtb.TabIndex = 3;
 			// 
 			// resulttxtb
 			// 
@@ -85,7 +85,7 @@
 			this.resulttxtb.Name = "resulttxtb";
 			this.resulttxtb.ReadOnly = true;
 			this.resulttxtb.Size = new System.Drawing.Size(336, 131);
-			this.resulttxtb.TabIndex = 3;
+			this.resulttxtb.TabIndex = 5;
 			// 
 			// Form1
 			// 
